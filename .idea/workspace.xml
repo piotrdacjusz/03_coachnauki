@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d1c53a8-8e8d-4a7a-b7d7-4c37a312bc1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/03_coachnauki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/coach_nauki_logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/piotr.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/piotr_wyciety.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/superhero-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/css/grayscale.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/img/copyright.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/img/copyright.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/img/favicon-change.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/img/favicon-change.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/img/logo-change.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/img/logo-change.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/img/title.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/img/title.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/js/grayscale.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/js/grayscale.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/documentation/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/sass/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/_default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/sass/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/sass/_mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/stellarnav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stellarnav.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldLegacy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldLegacy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldLegacy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldLegacy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldLegacyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldLegacyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-BoldLegacyItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-BoldLegacyItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LegacyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LegacyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LegacyItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LegacyItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightLegacy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightLegacy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightLegacy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightLegacy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightLegacyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightLegacyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-LightLegacyItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-LightLegacyItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumLegacy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumLegacy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumLegacy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumLegacy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumLegacyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumLegacyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-MediumLegacyItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-MediumLegacyItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-RegularLegacy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-RegularLegacy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-RegularLegacy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-RegularLegacy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldLegacy.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldLegacy.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldLegacy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldLegacy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldLegacyItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldLegacyItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/HKGrotesk-SemiBoldLegacyItalic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk-SemiBoldLegacyItalic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-light-300.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-light-300.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-light-300.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-light-300.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-light-300.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-light-300.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-light-300.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-light-300.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-light-300.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-light-300.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/fonts/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/blog/side-post-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/side-post-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/blog/side-post-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/side-post-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/blog/side-post-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/side-post-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/blog/side-post-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/side-post-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/blog/side-subscribe-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/side-subscribe-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/contact/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/contact/scroll-box.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/scroll-box.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/contact/scroll-down.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/scroll-down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/contact/scroll-inner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/scroll-inner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/contact/scroll-up.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contact/scroll-up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon2.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/Untitled-1-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/Untitled-1-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-bottom-right-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-bottom-right-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-center-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-center-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-contact-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-contact-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-left-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-left-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-left-bottom-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-left-bottom-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-left-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-left-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-plant.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-plant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-right-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-right-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-right-bottom-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-right-bottom-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/about-top-right-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/about-top-right-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/ama-prom-baltic.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/ama-prom-baltic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/architecture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/architecture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/award-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/award-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/award-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/award-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/award-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/award-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/award-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/award-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/belrosstroj-858.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/belrosstroj-858.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/beot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/beot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/dashboard_admin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/dashboard_admin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/decisive-farming.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/decisive-farming.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/dribbble-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/dribbble-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/exhibition-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/exhibition-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/expressjet.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/expressjet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/footer-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/footer-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-bottom-left-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-bottom-left-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-element-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-element-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-element-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-element-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-element-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-element-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-element-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-element-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-left-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-left-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-left-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-left-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-right-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-right-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/hero-top-center-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/hero-top-center-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/interview-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/interview-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/interview-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/interview-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/interview-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/interview-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/interview-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/interview-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/linkedin-letters.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/linkedin-letters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/louisiana-plumbing.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/louisiana-plumbing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/mail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/med-mhamdi-1452908-unsplash.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/med-mhamdi-1452908-unsplash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/medium-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/medium-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/mengyi-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/mengyi-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/neonbrand-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/neonbrand-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/neonbrand-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/neonbrand-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/neonbrand-637079-unsplash.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/neonbrand-637079-unsplash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/noun_Quote_-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/noun_Quote_-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/noun_Quote_1213112.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/noun_Quote_1213112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/patrick-schneider-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/patrick-schneider-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/photo-1534528741775-53994a69daeb.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/photo-1534528741775-53994a69daeb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/photo-1545975645-ea9501a81d76.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/photo-1545975645-ea9501a81d76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-leaf-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-leaf-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-left-center-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-left-center-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-right-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-right-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-right-bottom-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-right-bottom-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/portfolio-right-dot.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/portfolio-right-dot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/service-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/service-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/service-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/service-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/service-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/service-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/service-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/service-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/service-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/service-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/sprout-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/sprout-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/sprout-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/sprout-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/sprout-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/sprout-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/sprout.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/sprout.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/tab-bg-elements.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/tab-bg-elements.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/team06.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/team06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-author-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-author-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-author-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-author-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-author-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-author-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-box-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-box-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-left-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-left-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-line-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-line-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/testimonial-right-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/testimonial-right-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/to-do-list.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/to-do-list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home1/twitter-black-shape.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home1/twitter-black-shape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/about-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/about-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/blog-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/blog-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/blog-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/blog-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/blog-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/blog-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/blog-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/blog-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/service-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/service-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/home2/work-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/home2/work-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/loader2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loader2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/pricing/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pricing/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/pricing/price-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pricing/price-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/pricing/price-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pricing/price-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/pricing/price-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pricing/price-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/post-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/post-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/post-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/post-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/related-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/related-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/related-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/related-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/related-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/related-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/team-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/team-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/team-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/team-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/team-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/team-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-blog/team-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-blog/team-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-service/post-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-service/post-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-service/post-mas-b-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-service/post-mas-b-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-service/post-mas-s-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-service/post-mas-s-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/img/single-service/post-mas-s-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/single-service/post-mas-s-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/countdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/html5shiv-printshiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/html5shiv-printshiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery.scrollUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.scrollUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/stellarnav.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/stellarnav.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growth-downloadable/growth-html/single-service.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-service.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UHLNWIu4KopPdvMd1drRYB5L7c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d1c53a8-8e8d-4a7a-b7d7-4c37a312bc1e" name="Default Changelist" comment="" />
+      <created>1575008540719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575008540719</updated>
+      <workItem from="1575008554648" duration="436000" />
+      <workItem from="1575009383525" duration="1485000" />
+      <workItem from="1575048613444" duration="1253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="75" key="SettingsEditor" timestamp="1575049889633">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="75" key="SettingsEditor/0.0.1600.860/-1600.0.1600.860@0.0.1600.860" timestamp="1575049889633" />
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1575049408449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="63" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/-1600.0.1600.860@0.0.1600.860" timestamp="1575049408449" />
+  </component>
+</project>
